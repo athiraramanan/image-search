@@ -1,7 +1,7 @@
 import React from 'react';
 import SearchBar from './SearchBar'
 // import axios from 'axios'
-import Validator from './Validator'
+// import Validator from './Validator'
 import unsplash from '../api/unsplash'
 import ImageList from './ImageList'
 class App extends React.Component{
